@@ -1,4 +1,4 @@
-# NLP-PROJECT-2
+# NLP-PROJECT-1
 from transformers import AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments from datasets import Dataset
 
 -----------------------------
